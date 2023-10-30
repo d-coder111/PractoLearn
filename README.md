@@ -19,7 +19,7 @@ PractoLearn serves as a repository for acquiring fundamental knowledge through h
 
 
 <p align="center">
-   <img alt="Coding" width="550" src="https://gifdb.com/images/high/thank-you-cute-cartoon-panda-bear-kokr7t3fz867od7c.webp" class="center">
+   <img alt="Coding" width="300" src="https://gifdb.com/images/high/thank-you-cute-cartoon-panda-bear-kokr7t3fz867od7c.webp" class="center">
 </p>
 
 <h3 align="center">Show some ❤️ by starring the repository! Happy Learning 😊👩‍💻🚀!!</h3>

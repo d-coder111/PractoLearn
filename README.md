@@ -1,6 +1,6 @@
 # PractoLearn <img alt="Code" width="45" src="https://github.com/d-coder111/PractoLearn-Hactoberfest/blob/main/elearning.png">
 
-## Adding programs in different category to learn basics and implement it practically  
+## Programs in various categories to grasp the fundamentals and put them into practice. 
 PractoLearn serves as a repository for acquiring fundamental knowledge through hands-on projects suitable for beginners and individuals of all skill levels. We encourage you to participate and warmly welcome your contributions.
 
  ### 🌟 How to Contribute:
